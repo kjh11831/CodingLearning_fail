@@ -81,16 +81,3 @@ namespace CodingLearningApp
                     httpClient.DefaultRequestHeaders.Add("User-Agent", "C# App");
 
                 string response = await httpClient.GetStringAsync(url
-
-
-
-
-
-
-
-
-
-
-
-
-                    실패
